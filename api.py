@@ -1,3 +1,9 @@
+##############################################################################
+#                                                                            #
+# This file handles calls to Cobalt over different REST types (Put, Get etc) #
+#                                                                            #
+##############################################################################
+
 import requests
 
 BASE_URL = "https://test.myabf.com.au"
